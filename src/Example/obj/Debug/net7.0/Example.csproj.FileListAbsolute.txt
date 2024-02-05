@@ -1,0 +1,7 @@
+C:\Users\User\fsharp\YuGiOh\src\Example\bin\Debug\net7.0\Example.deps.json
+C:\Users\User\fsharp\YuGiOh\src\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+C:\Users\User\fsharp\YuGiOh\src\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\fsharp\YuGiOh\src\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+C:\Users\User\fsharp\YuGiOh\src\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+C:\Users\User\fsharp\YuGiOh\src\Example\obj\Debug\net7.0\Example.csproj.CopyComplete
+C:\Users\User\fsharp\YuGiOh\src\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache

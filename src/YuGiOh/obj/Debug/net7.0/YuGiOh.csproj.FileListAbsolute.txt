@@ -1,0 +1,4 @@
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\bin\Debug\net7.0\YuGiOh.deps.json
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.AssemblyInfo.cs

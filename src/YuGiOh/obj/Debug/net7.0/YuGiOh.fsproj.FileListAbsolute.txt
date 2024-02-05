@@ -1,0 +1,13 @@
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\bin\Debug\net7.0\YuGiOh.deps.json
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\bin\Debug\net7.0\YuGiOh.dll
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\bin\Debug\net7.0\YuGiOh.pdb
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\bin\Debug\net7.0\YuGiOh.xml
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.fsproj.AssemblyReference.cache
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.AssemblyInfoInputs.cache
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.AssemblyInfo.fs
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.fsproj.CoreCompileInputs.cache
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.dll
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\refint\YuGiOh.dll
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.xml
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\YuGiOh.pdb
+C:\Users\User\fsharp\YuGiOh\src\YuGiOh\obj\Debug\net7.0\ref\YuGiOh.dll
