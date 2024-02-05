@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("YuGiOh")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11ac10ef66d29c877a42953587ad2058a2631fd7")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("YuGiOh")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("YuGiOh")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
